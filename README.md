@@ -1,1 +1,1 @@
-# LR
+# Linear Regression Example 1
